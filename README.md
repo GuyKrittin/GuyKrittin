@@ -15,7 +15,7 @@ I love building useful applications, optimizing systems, and learning new techno
 
 Here are a few highlighted projects from my GitHub profile:
 
-### 🔹 [WhereNext](https://github.com/your-link](https://github.com/WhereNext-co))
+### 🔹 [WhereNext](https://github.com/WhereNext-co)
 > A comprehensive hangout and scheduling assistant designed to find the best time and location to meet with friends. Built with an emphasis on **work-life balance** scheduling, real-time suggestions, and calendar profile integration.  
 > 🛠 Full-stack project | ICE (Information and Communication Engineering) CAPSTONE course project
 
